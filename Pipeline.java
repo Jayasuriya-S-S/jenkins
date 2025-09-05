@@ -7,7 +7,7 @@ class Jenkins{
 }
 class ci extends Jenkins{
 	ci(){
-		System.out.println("Ci process start");
+		System.out.println("Ci process start..");
 	}
 }
 
